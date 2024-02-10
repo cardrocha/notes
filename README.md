@@ -5,7 +5,7 @@
 # Aplicativo de notas
 
 ## Visão Geral
-Este é o aplicativo de notas desenvolvido durante o evento NLW EXPERT. Ele permite aos usuários criar notas digitando ou gravando áudio. As notas podem ser editadas e excluídas conforme necessário. Além disso, há a funcionalidade de busca, que permite ao usuário encontrar uma nota específica digitando uma palavra-chave.
+Este é o aplicativo de notas desenvolvido durante o evento NLW EXPERT da Rocktseat. Ele permite aos usuários criar notas digitando ou gravando áudio. As notas podem ser editadas e excluídas conforme necessário. Além disso, há a funcionalidade de busca, que permite ao usuário encontrar uma nota específica digitando uma palavra-chave.
 
 ## Funcionalidades
 - Criação de notas por texto ou áudio.
@@ -17,7 +17,7 @@ Este é o aplicativo de notas desenvolvido durante o evento NLW EXPERT. Ele perm
 - Feedback visual por meio de toasts.
 
 ## Tecnologias Utilizadas
-- [Next.js](https://nextjs.org/) - Framework React para renderização do lado do servidor.
+- [React](https://reactjs.org/) - Biblioteca JavaScript para construção de interfaces de usuário.
 - [Tailwind CSS](https://tailwindcss.com/) - Framework de estilo utilitário.
 - [TypeScript](https://www.typescriptlang.org/) - Superset do JavaScript para adição de tipos.
 - [Radix UI](https://radix-ui.com/) - Biblioteca para criação de modais.
