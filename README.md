@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-![Screenshot da aplicação](public/notes.png)
+![Screenshot da aplicação](public/notas.png)
 
 # Aplicativo de notas
 
